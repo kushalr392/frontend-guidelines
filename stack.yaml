@@ -1,0 +1,14 @@
+frontend:
+  framework: React
+  language: TypeScript
+  styling: TailwindCSS
+
+backend:
+  language: Java
+  framework: Spring
+
+database:
+  primary: PostgreSQL
+
+infra:
+  cloud: AWS
