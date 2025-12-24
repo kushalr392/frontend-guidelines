@@ -1,0 +1,9 @@
+{
+  "primary": "#257DF0",
+  "secondary": "#1C1D21",
+  "danger": "#F33A3A",
+  "background": "#FFFFFF",
+  "textTitle": "#2F3034",
+  "textContent": "#767678",
+  "hyperlink" : "#1557AF"
+}
