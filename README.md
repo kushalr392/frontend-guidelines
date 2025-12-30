@@ -2,14 +2,6 @@ Tech stack:
 frontend:
   framework: React
   language: TypeScript
-  styling: TailwindCSS
-
-backend:
-  language: Java
-  framework: Spring
-
-database:
-  primary: PostgreSQL
 
 infra:
   cloud: AWS
@@ -30,7 +22,6 @@ framework
 {
   "framework": "react",
   "language": "typescript",
-  "styling": "tailwind"
 }
 
 Colors to be used:
